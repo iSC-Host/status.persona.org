@@ -1,3 +1,0 @@
-when: Thu Mar  7 15:03:55 PST 2013
-
-Our email vendor moved us to an alternative delivery infrastructure after they confirmed the delays in email delivery. All email is flowing normally now. We are waiting on word back from them identifying when the problem began.

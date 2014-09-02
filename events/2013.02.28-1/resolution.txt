@@ -1,3 +1,0 @@
-when: Thu, 28 Feb 2013 14:28:00 PST
-
-Now that the network has stabilized traffic has been re-enabled at the SCL2 datacenter.

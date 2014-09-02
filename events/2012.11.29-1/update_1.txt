@@ -1,3 +1,0 @@
-when: Thu 29 Nov 2012 14:33:00 PST
-
-Nagios reports failures at Phoenix datacenter

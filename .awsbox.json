@@ -1,8 +1,0 @@
-{
-  "processes": [
-    "scripts/run.js"
-  ],
-  "hooks": {
-    "postdeploy": "scripts/to_json.js"
-  }
-}

@@ -1,3 +1,0 @@
-when: Sun Dec 15 13:47:00 PST 2013
-
-Maintenance complete

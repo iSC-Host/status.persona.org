@@ -1,3 +1,0 @@
-when: Thu Mar  7 14:23:55 PST 2013
-
-Persona email delivery is delayed due to hardware issues on our email vendor's infrastructure.

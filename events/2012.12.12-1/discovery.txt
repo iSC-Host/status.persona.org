@@ -1,4 +1,0 @@
-when: Wed Dec 12 14:03:00 PST 2012
-
-We stopped db writes during our maintenance window for just under 1 minute. This outage was briefer than we had anticipated.
-This maintneance was done to improve the stability of the system. 

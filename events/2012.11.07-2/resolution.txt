@@ -1,3 +1,0 @@
-when: Wed Nov 07 13:37:00 PST 2012
-
-Datacenter connectivity restored.

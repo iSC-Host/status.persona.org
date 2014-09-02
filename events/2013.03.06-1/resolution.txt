@@ -1,3 +1,0 @@
-when: Wed, 6 Mar 2013 16:25:48 PST
-
-The network issue has been resolved. We will re-enable the SCL2 datacenter shortly

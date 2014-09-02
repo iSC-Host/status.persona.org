@@ -1,3 +1,0 @@
-when: Thu, 3 Jan 2013 14:16 PST
-
-Cause isolated - email delivery to gmail.com was blocked, with ~900 emails in queue. This affected selenium tests but, more importantly, production users as well.
